@@ -1,4 +1,4 @@
-name: up
+name: Update
 
 on:
   watch:
